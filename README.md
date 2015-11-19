@@ -44,5 +44,6 @@
       [+] EMAIL:        murilosouza.pkk@hotmail.com      
       [+] GITHUB:       https://github.com/MurilloSouza  
       [+] FACEBOOK:     https://fb.com/profile.php?id=100010546054161
-      [+] Twitter:      @k3nshi_
+      [+] Twitter:      @k3nshi_ 
+      [+] Nick :        Arc4nj0
 ```
